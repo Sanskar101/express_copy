@@ -6,6 +6,7 @@
 
 ## Table of contents
 
+* SANSKAR ARORA
 * [Installation](#Installation)
 * [Features](#Features)
 * [Docs & Community](#docs--community)
